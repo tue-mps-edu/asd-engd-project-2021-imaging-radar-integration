@@ -4,7 +4,7 @@ This is a four-chip cascade radar consisting of 4xAWR2243 MMIC transceiver with 
 
 This first in-house project was part of the second quartile, it took 6 weeks and was carried out by the ASD trainees of the 2021 batch.
 
-
+Please find a more accurate description of the project in the [Home](https://github.com/tue-mps-edu/asd-pdeng-project-2021-imaging-radar-integration/wiki) wiki page.
 
 ## Table of Content
 1. [Acronyms Meaning](#acronyms-meaning)
@@ -122,9 +122,10 @@ You can find all the info about the taken tests in the Excel sheet present in th
 ### Point Cloud Density Increase
 From the measurtement results it clearly emerged that the density of the imaging radar point cloud is quite scarse with respect to the one of the LiDAR.
 Therefore, in the [Increase Point Cloud Density and Number of Frames](https://github.com/tue-mps-edu/asd-pdeng-project-2021-imaging-radar-integration/wiki/3.-Increase-Point-Cloud-Density-and-Number-of-Frames) wiki page you can find some suggestions on how to do it.
-### Sensor Technology Comparison
-Thanks to this project, it was possible to perform a benchmarking analysis about the main setection sensors used on a vehicle. The results of this investigation are highlighted in the [Sensor Technologies Comparison](https://github.com/tue-mps-edu/asd-pdeng-project-2021-imaging-radar-integration/wiki/4.-Sensor-Technologies-Comparison) wiki page.
-
+### Sensor Technology Comparison and Benchmarking Analysis
+Thanks to this project, it was possible to perform a benchmarking analysis about the main setection sensors used on a vehicle. The results of this investigation are highlighted in the [Sensor Technologies Comparison](https://github.com/tue-mps-edu/asd-pdeng-project-2021-imaging-radar-integration/wiki/4.-Sensor-Technologies-Comparison) and in the [Benchmarking Results](https://github.com/tue-mps-edu/asd-pdeng-project-2021-imaging-radar-integration/wiki/3.1-Benchmarking-Results) wiki pages.
+### Sensor Integration
+Finally, a strategy for sensor integration within the AV of the Automotive Lab of the university is proposed in the [Sensor Integration](https://github.com/tue-mps-edu/asd-pdeng-project-2021-imaging-radar-integration/wiki/3.2-Sensor-Integration) wiki page.
 
 ## Project Status
 The project is complete: the 6 weeks of time scheduled for the first in-house project of the ASD program are over.
